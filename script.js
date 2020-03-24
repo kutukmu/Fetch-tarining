@@ -29,7 +29,7 @@ async function createchart() {
           label: "Southern Hemisphere Temperature",
           fill: false,
           data: tempsS,
-          backgroundColor: ["rgba(255, 99, 132, 0.2)"],
+          backgroundColor: ["rgba(255, 99, 132, 0.3)"],
           borderColor: ["rgba(219, 206, 20, 1)"],
           borderWidth: 1
         }
